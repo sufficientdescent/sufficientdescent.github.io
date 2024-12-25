@@ -1,6 +1,6 @@
-# Sufficient Descent Laboratory
+# Sufficient Descent Labs
 
-This is the website of the Sufficient Descent Laboratory.  Welcome!
+This is the website of Sufficient Descent Labs.  Welcome!
 
 ## Acknowledgments
 This website was built using the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template), which adopted from the [Nerfies](https://nerfies.github.io/) page.
